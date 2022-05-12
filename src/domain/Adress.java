@@ -1,4 +1,4 @@
-package java.domain;
+package src.domain;
 import lombok.Builder;
 import lombok.Data;
 @Data

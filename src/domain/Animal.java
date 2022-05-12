@@ -1,4 +1,4 @@
-package java.domain;
+package src.domain;
 import lombok.Getter;
 @Getter
 public abstract class Animal {

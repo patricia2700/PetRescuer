@@ -1,4 +1,4 @@
-package java.domain;
+package src.domain;
 
 import lombok.Builder;
 import lombok.Data;
@@ -17,7 +17,6 @@ public class PetsAvalable {
     public static final class Pets implements Comparable {
 
         private String description;
-        private Integer age;
 
         @Override
         public int compareTo(Object o) {

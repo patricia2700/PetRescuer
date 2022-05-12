@@ -1,4 +1,4 @@
-package java.domain;
+package src.domain;
 
 public class AdoptionServiceEmployee {
 }

@@ -1,4 +1,4 @@
-package java.domain;
+package src.domain;
 import lombok.Data;
 
 import java.util.Date;
